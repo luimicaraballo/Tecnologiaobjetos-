@@ -1,0 +1,14 @@
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/bin/Debug/net9.0/TecnologiaObjetosPracticaFinal
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/bin/Debug/net9.0/TecnologiaObjetosPracticaFinal.deps.json
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/bin/Debug/net9.0/TecnologiaObjetosPracticaFinal.runtimeconfig.json
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/bin/Debug/net9.0/TecnologiaObjetosPracticaFinal.dll
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/bin/Debug/net9.0/TecnologiaObjetosPracticaFinal.pdb
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.AssemblyInfoInputs.cache
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.AssemblyInfo.cs
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.csproj.CoreCompileInputs.cache
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.dll
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/refint/TecnologiaObjetosPracticaFinal.dll
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.pdb
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/TecnologiaObjetosPracticaFinal.genruntimeconfig.cache
+/home/milui/Documents/code/intec/TecnologíaObjetosPracticaFinal/TecnologiaObjetosPracticaFinal/obj/Debug/net9.0/ref/TecnologiaObjetosPracticaFinal.dll
